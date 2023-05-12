@@ -7,4 +7,13 @@
             "test"
         ]
     }
+    
+    "test2": {
+        "message": [
+            "This",
+            "is",
+            "another",
+            "test"
+        ]
+    }
 }
