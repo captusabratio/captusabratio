@@ -6,11 +6,14 @@
             "To open a file you must simply type the name of it; each file contains a clue that will lead you to the next filename.",
             "The first person to complete this challenge will be rewarded with $5000 cash.",
             "Good luck!!!"
-        ]
+        ],
+        "secretCommand": true
     },
     "pharaoh": {
         "message": [
             "Well done."
-        ]
+        ],
+        "secretCommand": true
     }
+    
 }
